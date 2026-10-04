@@ -1,0 +1,13 @@
+## Rollback Evidence – Task 27
+
+The project was developed using the Superstore dataset and analyzed in MySQL and Excel.
+
+Rollback approach:
+
+- The original dataset was preserved without modification.
+- SQL analysis was performed using queries without altering the source data.
+- The Excel workbook was created separately for ranking, dashboard and recommendations.
+- If any analysis or dashboard change is incorrect, the workbook can be reverted to the saved project copy.
+- The original source data remains available for re-analysis.
+
+No destructive changes were made to the original dataset.
